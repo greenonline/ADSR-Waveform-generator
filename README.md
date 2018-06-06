@@ -1,2 +1,2 @@
 # ADSR-Waveform-generator
-ADSR Waveform generator, see http://www.yusynth.net/archives/WirelessWorld/T-Orr-VCF-1976.pdf
+ADSR Waveform generator, see http://www.yusynth.net/archives/ElectronicDesign/O-Gabor-ADSR-1980.pdf
